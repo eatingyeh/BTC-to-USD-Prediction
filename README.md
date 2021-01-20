@@ -10,4 +10,4 @@ Waikato Environment for Knowledge Analysis (Weka) is used for this project. Weka
 - Algorithm: 
 The attribute evaluators with search methods on Weka are utilized to select attributes from the dataset, and the classifiers to train models and make predictions.
 ## 4. Procedure, Evaluation and Results
-Please view the report [here]https://github.com/eatingyeh/BTC-to-USD-Prediction/blob/main/BTC:USD%20Prediction%20report.pdf) for more details.
+Please view the report [here](https://github.com/eatingyeh/BTC-to-USD-Prediction/blob/main/BTC:USD%20Prediction%20report.pdf) for more details.
